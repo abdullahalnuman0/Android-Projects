@@ -3,14 +3,15 @@
 
 # 📓 Note App
 
-A clean and minimal Android application to take notes with support for styled text and image attachments.
+A clean and minimal Android application to take notes.
 
 
 ## ✨ Features
 
 - ✍️ Create, edit, and delete notes
+<!--
 - 🖼️ Add images to your notes
-- 🎨 Apply basic text styling (bold, italic, underline)
+- 🎨 Apply basic text styling (bold, italic, underline) -->
 - 🔍 Search notes
 - 📦 Local storage using Room Database
 - 🧱 MVVM Architecture with Repository pattern
@@ -28,7 +29,7 @@ A clean and minimal Android application to take notes with support for styled te
 
 ## 📸 Screenshots
 
-<img src="screenshots/note_list.png" width="250"/> <img src="screenshots/note_editor.png" width="250"/>
+<img src="Screenshots/note_img_1.jpeg" width="250"/> <img src="screenshots/note_editor.png" width="250"/>
 
 
 ## 📥 Download APK
