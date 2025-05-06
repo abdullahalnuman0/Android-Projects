@@ -12,7 +12,7 @@ A clean and minimal Android application to take notes.
 <!--
 - 🖼️ Add images to your notes
 - 🎨 Apply basic text styling (bold, italic, underline) -->
-- 🔍 Search notes
+- 🔍 Sort notes
 - 📦 Local storage using Room Database
 - 🧱 MVVM Architecture with Repository pattern
 
@@ -24,7 +24,8 @@ A clean and minimal Android application to take notes.
 - **Room Database**
 - **ViewModel & LiveData**
 - **Hilt (Dependency Injection)**
-- **Coil (for Image Loading)**
+<!--
+- **Coil (for Image Loading)** -->
 
 
 ## 📸 Screenshots
@@ -34,7 +35,10 @@ A clean and minimal Android application to take notes.
 
 ## 📥 Download APK
 
-🔗 [Download APK](https://drive.google.com/file/d/your_apk_file_id/view?usp=sharing)
+🔗 [![Download](https://img.shields.io/badge/Download-APK-blue.svg)](https://drive.google.com/file/d/1bHuy2Uan9qjS2M5Y5YYxMNvVIfdGgG1_/view?usp=sharing)
+
+---
+The rest will come soon.
 
 
 <!--
@@ -47,7 +51,7 @@ A clean and minimal Android application to take notes.
 
 
 ---
-
+<!--
 # 📱 Expense Tracker App
 
 A simple and beautiful Android app to track your daily expenses, income, and view summaries in chart format.
@@ -78,3 +82,5 @@ A simple and beautiful Android app to track your daily expenses, income, and vie
 [👉 Watch Video Demo](https://drive.google.com/file/d/your_video_link/view)
 
 ## 📁 Project Structure
+
+-->
