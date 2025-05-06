@@ -29,7 +29,7 @@ A clean and minimal Android application to take notes.
 
 ## 📸 Screenshots
 
-<img src="Screenshots/note_img_1.jpeg" width="250"/> <img src="screenshots/note_editor.png" width="250"/>
+<img src="Screenshots/note_img_1.jpeg" width="250"/> <img src="Screenshots/note_img_2.jpeg" width="250"/> <img src="Screenshots/note_img_3.jpeg" width="250"/>
 
 
 ## 📥 Download APK
