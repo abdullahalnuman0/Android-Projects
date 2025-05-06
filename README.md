@@ -47,7 +47,7 @@ A clean and minimal Android application to take notes with support for styled te
 
 ---
 
-## 📁 Project Structure
+<!--## 📁 Project Structure-->
 
 
 
