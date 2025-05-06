@@ -1,5 +1,56 @@
 # Android-Projects
 
+
+# 📓 Note App
+
+A clean and minimal Android application to take notes with support for styled text and image attachments.
+
+---
+
+## ✨ Features
+
+- ✍️ Create, edit, and delete notes
+- 🖼️ Add images to your notes
+- 🎨 Apply basic text styling (bold, italic, underline)
+- 🔍 Search notes
+- 📦 Local storage using Room Database
+- 🧱 MVVM Architecture with Repository pattern
+
+---
+
+## 🛠️ Built With
+
+- **Kotlin**
+- **Jetpack Compose**
+- **Room Database**
+- **ViewModel & LiveData**
+- **Hilt (Dependency Injection)**
+- **Coil (for Image Loading)**
+
+---
+
+## 📸 Screenshots
+
+<img src="screenshots/note_list.png" width="250"/> <img src="screenshots/note_editor.png" width="250"/>
+
+---
+
+## 📥 Download APK
+
+🔗 [Download APK](https://drive.google.com/file/d/your_apk_file_id/view?usp=sharing)
+
+---
+
+## 🎥 Video Demo
+
+▶️ [Watch Demo](https://drive.google.com/file/d/your_demo_video_id/view?usp=sharing)
+
+---
+
+## 📁 Project Structure
+
+
+
 # 📱 Expense Tracker App
 
 A simple and beautiful Android app to track your daily expenses, income, and view summaries in chart format.
