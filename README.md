@@ -23,6 +23,8 @@ A simple and beautiful Android app to track your daily expenses, income, and vie
 
 ## 📦 Download APK
 🔗 [Download APK](https://drive.google.com/file/d/your_apk_file_link/view?usp=sharing)
+[![Download](https://img.shields.io/badge/Download-APK-blue.svg)](weather-app.apk)
+
 
 ## 🌐 Live Demo (if any)
 [👉 Watch Video Demo](https://drive.google.com/file/d/your_video_link/view)
