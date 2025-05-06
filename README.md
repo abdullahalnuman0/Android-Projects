@@ -1,11 +1,10 @@
 # Android-Projects
-
+---
 
 # 📓 Note App
 
 A clean and minimal Android application to take notes with support for styled text and image attachments.
 
----
 
 ## ✨ Features
 
@@ -16,7 +15,6 @@ A clean and minimal Android application to take notes with support for styled te
 - 📦 Local storage using Room Database
 - 🧱 MVVM Architecture with Repository pattern
 
----
 
 ## 🛠️ Built With
 
@@ -27,29 +25,27 @@ A clean and minimal Android application to take notes with support for styled te
 - **Hilt (Dependency Injection)**
 - **Coil (for Image Loading)**
 
----
 
 ## 📸 Screenshots
 
 <img src="screenshots/note_list.png" width="250"/> <img src="screenshots/note_editor.png" width="250"/>
 
----
 
 ## 📥 Download APK
 
 🔗 [Download APK](https://drive.google.com/file/d/your_apk_file_id/view?usp=sharing)
 
----
 
+<!--
 ## 🎥 Video Demo
 
 ▶️ [Watch Demo](https://drive.google.com/file/d/your_demo_video_id/view?usp=sharing)
 
+
+## 📁 Project Structure-->
+
+
 ---
-
-<!--## 📁 Project Structure-->
-
-
 
 # 📱 Expense Tracker App
 
