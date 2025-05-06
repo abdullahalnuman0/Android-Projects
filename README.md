@@ -38,7 +38,20 @@ A clean and minimal Android application to take notes.
 🔗 [![Download](https://img.shields.io/badge/Download-APK-blue.svg)](https://drive.google.com/file/d/1bHuy2Uan9qjS2M5Y5YYxMNvVIfdGgG1_/view?usp=sharing)
 
 ---
-The rest will come soon.
+The rest will come soon.(date: May 07, 2025)
+
+E-commerce
+Blog App
+Smart Contact Manager App
+Real-time chat App
+Video streaming App
+Weather Ap
+Expense Tracker
+TicTacToe (Game)
+To Do List
+Note App
+QR/Barcode scanner and generator App
+Arduino controller App
 
 
 <!--
