@@ -117,13 +117,48 @@ Click the button below to download the latest version of **Weather App**:
 🔗 [GitHub Repository](https://github.com/abdullahalnuman0/Weather-App-Jetpack-Compose)
 
 
+---
+---
+---
+
+# 🔌 Arduino Control App
+
+An Android application to control your Arduino-powered devices using Bluetooth. This app allows users to connect to an HC-05/HC-06 module and send commands to control LEDs, motors, sensors, and more.
+
+
+## ✨ Features
+
+- 🔐 Pair with HC-05 / HC-06 modules <!-- - 📶 Scan & connect to nearby Bluetooth devices -->
+- 🎮 Custom control buttons to send commands (e.g., ON, OFF, FORWARD)
+- 📜 View sent and received messages in real time
+- 🌙 Dark & Light mode support
+
+
+## 🛠️ Built With
+
+- **Kotlin**
+- **Jetpack Compose**
+- **BluetoothAdapter & BluetoothSocket**
+- **MVVM Architecture**
+- **Coroutines for async operations**
+- **State management using ViewModel**
+
+
+## 📸 Screenshots
+
+<img src="Screenshots/arduino_img_1.jpeg" width="150"/> <img src="Screenshots/arduino_img_2.jpeg" width="150"/> <img src="Screenshots/arduino_img_3.jpeg" width="150"/> <img src="Screenshots/arduino_img_4.jpeg" width="150"/> <img src="Screenshots/arduino_img_5.jpeg" width="150"/> 
+
+
+## 📥 Download APK
+
+🔗 [Download APK](https://drive.google.com/file/d/1A2JjcCzWlYHE7hgbF4FUU1hcdYWZcrcW/view?usp=sharing)
 
 
 --- 
-----
------
+---
+---
 
-The rest will come soon.(date: May 07, 2025)
+The rest will come soon...
 
 E-commerce
 Blog App
