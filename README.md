@@ -38,6 +38,50 @@ A clean and minimal Android application to take notes.
 🔗 [![Download](https://img.shields.io/badge/Download-APK-blue.svg)](https://drive.google.com/file/d/1bHuy2Uan9qjS2M5Y5YYxMNvVIfdGgG1_/view?usp=sharing)
 
 ---
+---
+---
+
+# 💰 Cryptocurrency Info App
+
+An Android app to explore and learn about various cryptocurrencies like **Bitcoin (BTC), Ethereum (ETH), Tether (USDT)**, and many more.
+
+The app provides detailed information about each coin, including its creators, description, launch year, tags, and current market stats.
+
+## ✨ Features
+
+- 📋 List of 100+ cryptocurrencies
+- 🔎 Search and filter by coin name or tag
+- 🧠 View creator details and launch year
+- 🧾 Full coin description and purpose
+- 🏷️ Tags like "Store of Value", "DeFi", "Stablecoin"
+- 🌙 Light & Dark Theme support
+- 📡 Fetch live data from public API
+
+---
+
+## 🛠️ Built With
+
+- **Kotlin**
+- **Jetpack Compose**
+- **Retrofit (API calls)**
+- **Coil (Image loading)**
+- **Hilt (Dependency Injection)**
+- **MVVM Architecture**
+
+
+## 📸 Screenshots
+
+<img src="screenshots/home_screen.png" width="250"/> <img src="screenshots/coin_details.png" width="250"/>
+
+
+## 📥 Download APK
+
+🔗 [Download APK](https://drive.google.com/file/d/your_apk_link/view?usp=sharing)
+
+---
+----
+-----
+
 The rest will come soon.(date: May 07, 2025)
 
 E-commerce
