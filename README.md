@@ -30,7 +30,7 @@ A clean and minimal Android application to take notes.
 
 ## 📸 Screenshots
 
-<img src="Screenshots/note_img_1.jpeg" width="200"/> <img src="Screenshots/note_img_2.jpeg" width="200"/> <img src="Screenshots/note_img_3.jpeg" width="200"/>
+<img src="Screenshots/note_img_1.jpeg" width="150"/> <img src="Screenshots/note_img_2.jpeg" width="150"/> <img src="Screenshots/note_img_3.jpeg" width="150"/>
 
 
 ## 📥 Download APK
@@ -69,7 +69,7 @@ The app provides detailed information about each coin, including its creators, d
 
 ## 📸 Screenshots
 
-<img src="Screenshots/cryptocurrency_img_1.jpeg" width="180"/> <img src="Screenshots/cryptocurrency_img_2.jpeg" width="180"/> <img src="Screenshots/cryptocurrency_img_3.jpeg" width="180"/> <img src="Screenshots/cryptocurrency_img_4.jpeg" width="180"/>
+<img src="Screenshots/cryptocurrency_img_1.jpeg" width="150"/> <img src="Screenshots/cryptocurrency_img_2.jpeg" width="150"/> <img src="Screenshots/cryptocurrency_img_3.jpeg" width="150"/> <img src="Screenshots/cryptocurrency_img_4.jpeg" width="150"/>
 
 
 ## 📥 Download APK
