@@ -37,6 +37,10 @@ A clean and minimal Android application to take notes.
 
 🔗 [![Download](https://img.shields.io/badge/Download-APK-blue.svg)](https://drive.google.com/file/d/1bHuy2Uan9qjS2M5Y5YYxMNvVIfdGgG1_/view?usp=sharing)
 
+## 📂 View Source Code
+
+🔗 [GitHub Repository](https://github.com/abdullahalnuman0/Notepad-App-Jetpack-Compose)
+
 ---
 ---
 ---
@@ -76,7 +80,9 @@ The app provides detailed information about each coin, including its creators, d
 
 🔗 [![Download](https://img.shields.io/badge/Download-APK-blue.svg)](https://drive.google.com/file/d/1fE1GYx4OBU-YhiNE04Sn16S-r5Fa7BCQ/view?usp=sharing)
 
----
+🔗 [GitHub Repository](https://github.com/abdullahalnuman0/Cryptocurrency-Info-App)
+
+--- 
 ----
 -----
 
