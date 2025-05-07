@@ -105,7 +105,7 @@ Welcome to **Weather App**, a sleek and modern weather forecasting application b
 <img src="https://github.com/abdullahalnuman0/Weather-App-Jetpack-Compose/blob/main/app/src/main/res/drawable/dark_mode.png" width="150px">
 
 ### Light Mode
-<img src="https://github.com/abdullahalnuman0/Weather-App-Jetpack-Compose/blob/main/app/src/main/res/drawable/drawable/light_mode.png" width="150px">
+<img src="https://github.com/abdullahalnuman0/Weather-App-Jetpack-Compose/blob/main/app/src/main/res/drawable/light_mode.png" width="150px">
 
 ## 📥 Download the App
 
