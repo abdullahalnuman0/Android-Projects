@@ -49,34 +49,32 @@ The app provides detailed information about each coin, including its creators, d
 
 ## ✨ Features
 
-- 📋 List of 100+ cryptocurrencies
+- 📋 List of 10000+ cryptocurrencies
 - 🔎 Search and filter by coin name or tag
 - 🧠 View creator details and launch year
 - 🧾 Full coin description and purpose
-- 🏷️ Tags like "Store of Value", "DeFi", "Stablecoin"
-- 🌙 Light & Dark Theme support
+- 🏷️ Tags like "Store of Value", "DeFi", "Stablecoin" <!-- - 🌙 Light & Dark Theme support -->
+- 🌙 Dark Theme support
 - 📡 Fetch live data from public API
 
----
 
 ## 🛠️ Built With
 
 - **Kotlin**
 - **Jetpack Compose**
-- **Retrofit (API calls)**
-- **Coil (Image loading)**
+- **Retrofit (API calls)** <!-- - **Coil (Image loading)** -->
 - **Hilt (Dependency Injection)**
 - **MVVM Architecture**
 
 
 ## 📸 Screenshots
 
-<img src="screenshots/home_screen.png" width="250"/> <img src="screenshots/coin_details.png" width="250"/>
+<img src="Screenshots/cryptocurrency_img_1.jpeg" width="180"/> <img src="Screenshots/cryptocurrency_img_2.jpeg" width="180"/> <img src="Screenshots/cryptocurrency_img_3.jpeg" width="180"/> <img src="Screenshots/cryptocurrency_img_4.jpeg" width="180"/>
 
 
 ## 📥 Download APK
 
-🔗 [Download APK](https://drive.google.com/file/d/your_apk_link/view?usp=sharing)
+🔗 [![Download](https://img.shields.io/badge/Download-APK-blue.svg)](https://drive.google.com/file/d/1fE1GYx4OBU-YhiNE04Sn16S-r5Fa7BCQ/view?usp=sharing)
 
 ---
 ----
